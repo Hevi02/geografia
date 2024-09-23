@@ -6,9 +6,13 @@ body {
         color: white;
         position: fixed;
         bottom: 0;
-        width: 500%;
+        width: 100%;
         }
         body {
             background-color: bisque;
             font-family: Bai Jamjuree;
             }
+            footer p {
+                text-align: center;
+                font-size: 0.9rem;
+                }
